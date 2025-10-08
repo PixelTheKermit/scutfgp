@@ -46,8 +46,8 @@ def Run():
     # Merge it all
     base.paste(right, (faceSize[0] * 0, faceSize[1] * 0))
     base.paste(left, (faceSize[0] * 1, faceSize[1] * 0))
-    base.paste(bottom, (faceSize[0] * 0, faceSize[1] * 1))
-    base.paste(top, (faceSize[0] * 1, faceSize[1] * 1))
+    base.paste(bottom, (faceSize[0] * 1, faceSize[1] * 1))
+    base.paste(top, (faceSize[0] * 0, faceSize[1] * 1))
     base.paste(front, (faceSize[0] * 0, faceSize[1] * 2))
     base.paste(back, (faceSize[0] * 1, faceSize[1] * 2))
 
