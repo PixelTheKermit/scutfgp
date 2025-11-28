@@ -1,5 +1,6 @@
 # S.C.U.T.F.G.P
-Skybox Cubemap Utility Thing For Godot Projects\n
+Skybox Cubemap Utility Thing For Godot Projects
+
 *This is intended to be run in cmd. Use `python ./path-to-png.png` to get started.*
 
 ## Dependencies
