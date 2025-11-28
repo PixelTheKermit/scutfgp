@@ -1,6 +1,6 @@
 # S.C.U.T.F.G.P
 Skybox Cubemap Utility Thing For Godot Projects
-
+*This is intended to be run in cmd. Use `python ./path-to-png.png` to get started.*
 
 ## Dependencies
 Pillow is a required dependancy *(and this goes without saying, but so is python.)*
